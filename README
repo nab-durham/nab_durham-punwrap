@@ -13,3 +13,13 @@ Installation
 ===
 
 The Makefile should work for Mac OS and Linux, but only for Python 2k.
+
+
+Usage
+===
+
+The directory contains the `__init__.py` file which means you simply need the
+directory in your path (PYTHONPATH) and then you `import punwrap`.
+
+The `test.py` code will check that all is well and gives some guidance, but it
+is straightforward to use as there is just one function.
