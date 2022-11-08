@@ -1,3 +1,18 @@
+IMPORTANT
+===
+
+*DO NOT USE THIS REPOSITORY FOR ANY PRODUCTION OR ANALYSIS*
+
+It is now retained for historical interest.
+
+I suggest you use,
+
+https://scikit-image.org/docs/dev/auto_examples/filters/plot_phase_unwrap.html
+
+which is the maintained version of the same underlying algorithm.
+
+
+
 Background
 ===
 
